@@ -1,6 +1,5 @@
 # To-Do List React Project
 
-This project was completely done by me https://github.com/Anujjha19
 
 ## About Project 
 
@@ -38,10 +37,6 @@ We welcome contributions! If ou'd like to contribute, please follow these steps:
 ### ` License `
 This project is licensed under the MIT License.
 
-### ` Author `
- https://github.com/Anujjha19
-
-#react #todolist #javascript #webdev #opensource
 
 
 
